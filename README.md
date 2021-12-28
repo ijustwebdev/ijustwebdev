@@ -2,5 +2,5 @@
 - I’m interested in making the internet a more aesthetically pleasing place to be.
 - I’m currently learning React, and reworking my portfolio for the responsive web.
 - I’m looking to collaborate on anything, I love to hear other developer stories and projects.
-- You can reach me at [my linkedin profile](https://www.linkedin.com/in/forrest-mullenax/), or at [My email.](fcmbox2@gmail.com)
+- You can reach me at [my linkedin profile](https://www.linkedin.com/in/forrest-mullenax/), or at [my email.](fcmbox2@gmail.com)
 - I don't use intellij anymore I've switched to vscode haha but my profile picture stays.
