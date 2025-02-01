@@ -1,1 +1,1 @@
-hired lol
+hell yeah dude
